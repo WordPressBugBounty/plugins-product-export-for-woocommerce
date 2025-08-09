@@ -1,13 +1,13 @@
-=== Product Export for WooCommerce to CSV, Excel, XML, and the Google Merchant Center ===
+=== Product Export for WooCommerce — Export Products from CSV, Excel, and XML ===
 Contributors: soflyy, wpallimport
-Tags: export, product, woocommerce, csv, excel, xml, product export, export product, export products, export woocommerce, woocommerce product export, google merchant center
+Tags: product export, export products, woocommerce product export, export woocommerce products, CSV export
 Requires at least: 5.0
-Tested up to: 6.7
+Tested up to: 6.8
 License: GPLv2 or later
 Requires PHP: 7.4
 Stable tag: 1.0.3
 
-Export WooCommerce products to CSV, Excel, or XML files, as well as to the Google Merchant Center. Run your WooCommerce product export on demand or on a schedule.
+Export WooCommerce products to CSV, Excel, XML, or the Google Merchant Center. Run your product export on demand or on a schedule.
 
 == Description ==
 
