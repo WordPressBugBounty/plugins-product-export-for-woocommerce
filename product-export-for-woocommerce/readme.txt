@@ -5,7 +5,7 @@ Requires at least: 5.0
 Tested up to: 6.8
 License: GPLv2 or later
 Requires PHP: 7.4
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 
 Export WooCommerce products to CSV, Excel, XML, or the Google Merchant Center. Run your product export on demand or on a schedule.
 
@@ -306,6 +306,9 @@ The free version of WooCommerce Product Export is supported through the WordPres
 14. WooCommerce Export Products Confirm and Run
 
 == Changelog ==
+
+= 1.0.4 =
+* improvement: UI updates
 
 = 1.0.3 =
 * improvement: update upgrade links
